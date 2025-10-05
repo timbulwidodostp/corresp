@@ -1,6 +1,8 @@
 # corresp
 Simple Correspondence Analysis Use corresp (MASS) With (In) R Software
 
+https://www.youtube.com/watch?v=_qw1b6XQfhA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
